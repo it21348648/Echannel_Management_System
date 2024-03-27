@@ -1,0 +1,67 @@
+.echannelimg01{
+    height: 550px;
+    width: 100%;
+}
+
+.channeltopic01{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.channelparg{
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+    font-size: medium;
+}
+
+.channeltopic02{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+.GoBookingPage{
+    cursor: pointer;
+    /* margin-left: 40px; */
+    left: 50px;
+    background-color: #3fbbc0;
+    border-radius: 10px;
+    /*font-weight: bold;*/
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: #3fbbc0;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.appointmentMain{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+}
+
+.text02{
+    font-weight: lighter;
+    font-size: large;
+}
+
+.common{
+    margin-bottom: 120px;
+}
+
+button:hover {
+    background-color: #389a9d;
+    transition: background-color 0.3s ease;
+  }
+
+.imgslide{
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 20px;
+    width: 100%;
+    height: 400px;
+}

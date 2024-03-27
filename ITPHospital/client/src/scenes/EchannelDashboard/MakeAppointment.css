@@ -1,0 +1,135 @@
+.echannelimg01{
+    height: auto;
+    width: 100%;
+}
+
+.channeltopic01{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+/* Page devide */
+.container {
+    display: flex;
+  }
+
+.column {
+    flex: 1;
+  }
+
+  .column:nth-child(1) {
+    flex: 0 0 70%;
+  }
+  
+  .column:nth-child(2) {
+    flex: 0 0 30%;
+  }
+
+  .btnsubmit{
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    margin-top: 60px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3fbbc0;
+    cursor: pointer;
+    font-size: large;
+}
+
+/*form classes*/
+
+/* align form */
+.form-group{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+.formText{
+    
+    background-color: #3fbbc0;
+    font-size: large;
+    border-radius: 10px;
+    padding: 5px 50px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.radiotextColor{
+    background-color: #b8f0f1;
+    border-radius: 10px;
+    padding: 5px 10px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+    border: none;
+    width: 100px;
+}
+
+.fillingText{
+    margin-top: 5px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    width: 100%;
+    border: none;
+    font-size: large;
+    /* text-align: start; */
+    background-color: #b8f0f1;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.formTextMargin{
+    margin-top: 50px;
+}
+
+.formFillmargin{
+    margin-top: 10px;
+    /* border-radius: 10px;
+    cursor: pointer;
+    padding: 5px 10px;
+    width: 500px;
+    border: none;
+    font-size: large;
+    background-color: #b8f0f1;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3); */
+}
+
+.radiobtn{
+    margin-top: 10px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.descriptionbox{
+    margin-top: 10px;
+    background-color: #b8f0f1;
+    border-radius: 10px;
+}
+
+/*search bar*/
+.dropdown-row{
+    cursor: pointer;
+    text-align: start;
+    margin: 2px 0;
+}
+
+.search-container{
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+}
+
+.dropdown{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+}
+
+.dropdown:empty{
+    border: none;
+}
+
+.search-inner{
+    display: flex;
+}

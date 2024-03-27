@@ -1,0 +1,82 @@
+.echannelimg01{
+    height: 700px;
+    width: 100%;
+}
+
+.channeltopic01{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.channelparg{
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+    font-size: medium;
+}
+
+.cancelPara02{
+    margin-top: 40px;
+    margin-left: 40px;
+    text-align: justify;
+    font-size: large;
+  }
+
+ /* align form */
+ .form-group{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+.formText{
+    
+    background-color: #3fbbc0;
+    border-radius: 10px;
+    padding: 5px 50px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.formTextMargin{
+    margin-top: 50px;
+}
+
+.fillingText{
+    margin-top: 5px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    width: 100%;
+    border: none;
+    font-size: large;
+    /* text-align: start; */
+    background-color: #b8f0f1;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.descriptionbox{
+    margin-top: 10px;
+    background-color: #b8f0f1;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.btnsubmit{
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    margin-top: 60px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3fbbc0;
+    cursor: pointer;
+    font-size: large;
+}
+
+.cancelPara02{
+    margin-top: 40px;
+    margin-left: 40px;
+    text-align: justify;
+    font-size: large;
+  }

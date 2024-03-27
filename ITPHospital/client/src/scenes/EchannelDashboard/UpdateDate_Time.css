@@ -1,0 +1,56 @@
+.patientListMargin{
+    margin-left: 50px;
+}
+
+.NameList{
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.imgsize{
+    width: 100%;
+    margin-right: 0px;
+}
+
+  /*table colomn*/
+  .container{
+    display: flex;
+  }
+
+  .formTextMargin{
+    margin-top: 50px;
+}
+
+.btnsubmit01{
+    width: 250px;
+    height: 80px;
+    text-align: center;
+    margin-top: 60px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3fbbc0;
+    cursor: pointer;
+    font-size: large;
+}
+
+.addDateTimeText{
+    margin-top: 1000px;
+}
+
+.par{
+    font-size: large;
+    margin-left: 50px;
+}
+
+.fillingText{
+    margin-top: 5px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    width: 100%;
+    border: none;
+    font-size: large;
+    /* text-align: start; */
+    background-color: #b8f0f1;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
